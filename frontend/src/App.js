@@ -1,7 +1,7 @@
 function App() {
   return (
     <div>
-      <h1>Hello from React Frontend 🚀</h1>
+      <h1>Hello from React Frontend  dev 🚀</h1>
     </div>
   );
 }
